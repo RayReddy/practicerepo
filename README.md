@@ -1,2 +1,3 @@
 # practicerepo
-this is a practice repository
+This is a practice repository
+created a remote repo
